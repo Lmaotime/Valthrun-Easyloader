@@ -21,8 +21,12 @@ namespace WindowsFormsApp1
         {
             Console.Title = "Valthrun easy loader";
             Console.WriteLine("");
-            Console.WriteLine(" Welcome To easy loader!"); 
-            Console.WriteLine(" this loader by rolesional btw");
+            Console.WriteLine(" _   __     ____  __");
+            Console.WriteLine("| | / /__ _/ / /_/ /  ______ _____"); 
+            Console.WriteLine("| |/ / _ `/ / __/ _ \\/ __/ // / _ \\");
+            Console.WriteLine("|___/\\_,_/_/\\__/_//_/_/  \\_,_/_//_/");
+            Console.WriteLine("");
+            Console.WriteLine(" Made by Rolesional");
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("");
